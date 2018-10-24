@@ -2,4 +2,5 @@
     <string name="app_name">dagger-android-demo</string>
 
     <string name="hello">Hello</string>
+    <string name="hi">Hi</string>
 </resources>

@@ -28,4 +28,5 @@ task clean(type: Delete) {
 
 ext {
     daggerVersion = '2.16'
+    guavaVersion = '18.0'
 }
